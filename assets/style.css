@@ -6,6 +6,7 @@
     text-decoration: none;
 }
 
+/*nav bar styling */
 .max-width{
     max-width: 1300px;
     padding: 0 80px;
@@ -16,7 +17,7 @@
     position: fixed;
     padding: 15px 0;
     width: 100%;
-    background: rgb(109, 227, 243);
+    background: rgb(65, 94, 62);
     font-familY: "Ubuntu", "sans-serif";
 }
 
@@ -27,7 +28,7 @@
 }
 
 .navbar .logo a{
-    color: black;
+    color: whitesmoke;
     font-size: 45px;
     font-weight: 400;
 }
@@ -38,7 +39,7 @@
 }
 
 .navbar .menu li a {
-    color: black;
+    color: whitesmoke;
     font-size: 20px;
     margin-left: 25px;
     font-weight: 400;
