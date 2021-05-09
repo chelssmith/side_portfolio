@@ -44,3 +44,13 @@
     margin-left: 25px;
     font-weight: 400;
 }
+
+/*hero area styling*/
+.hero{
+    background-image: url("/images/purple-sky.jpg");
+    height: 800px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 25px;
+}
