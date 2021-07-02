@@ -135,4 +135,5 @@ footer {
     text-align: center;
     position: relative;
     color: white;
+    justify-content: space-between;
 }
